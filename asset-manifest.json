@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/estimate-app/static/css/main.b2f6cdf1.css",
-    "main.js": "/estimate-app/static/js/main.4c7ead41.js",
-    "index.html": "/estimate-app/index.html",
-    "main.b2f6cdf1.css.map": "/estimate-app/static/css/main.b2f6cdf1.css.map",
-    "main.4c7ead41.js.map": "/estimate-app/static/js/main.4c7ead41.js.map"
+    "main.css": "/practical-task-WeEnggs/static/css/main.b2f6cdf1.css",
+    "main.js": "/practical-task-WeEnggs/static/js/main.4c7ead41.js",
+    "index.html": "/practical-task-WeEnggs/index.html",
+    "main.b2f6cdf1.css.map": "/practical-task-WeEnggs/static/css/main.b2f6cdf1.css.map",
+    "main.4c7ead41.js.map": "/practical-task-WeEnggs/static/js/main.4c7ead41.js.map"
   },
   "entrypoints": [
     "static/css/main.b2f6cdf1.css",
