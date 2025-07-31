@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/practical-task-WeEnggs/static/css/main.b2f6cdf1.css",
-    "main.js": "/practical-task-WeEnggs/static/js/main.436f9814.js",
+    "main.js": "/practical-task-WeEnggs/static/js/main.bebfbc18.js",
     "index.html": "/practical-task-WeEnggs/index.html",
     "main.b2f6cdf1.css.map": "/practical-task-WeEnggs/static/css/main.b2f6cdf1.css.map",
-    "main.436f9814.js.map": "/practical-task-WeEnggs/static/js/main.436f9814.js.map"
+    "main.bebfbc18.js.map": "/practical-task-WeEnggs/static/js/main.bebfbc18.js.map"
   },
   "entrypoints": [
     "static/css/main.b2f6cdf1.css",
-    "static/js/main.436f9814.js"
+    "static/js/main.bebfbc18.js"
   ]
 }
